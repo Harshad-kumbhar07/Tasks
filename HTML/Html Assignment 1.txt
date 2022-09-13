@@ -1,0 +1,63 @@
+<html>
+<head>
+  <meta charset="UTF-8">
+  <meta name="description" content="Harshad kumbhar html Starts">
+  <meta name="keywords" content="HTML">
+  <meta name="author" content="Harshad Kumbhar">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+</head>
+
+
+
+<body>
+   <h1 style="color:red;">HTML 1</h1>
+
+   <h1>font h1</h1>
+   <h2>font h2</h2>
+   <h3>font h3</h3>
+   <h4>font h4</h4>
+   <h5>font h5</h5>
+   <h6>font h6</h6>
+<hr/>
+
+<!-- Comment-->
+
+<h1>PARAGRAPH</h1>
+    <p style="color:red;">This Is a Paragraph</p>
+<hr/>
+
+<h1> Website Link</h1>
+    <p>Website Link</p>
+      <a Href="https://harshadkumbhar01.blogspot.com/2022/08/harshad-kumbhar-html-start.html">MY SITE</a>
+<hr/>
+
+<h1>Picture</h1>
+    <img src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhbPpBtTuG8iUWxpMFQuCyL3oZAt1fx-vQECdYimX0x9QvIV41LEbIqwEIdRr6M3fC3yN95DuJEHqHIvVf9ZUxjlaCecwMhjvo1_G_fonHErUL968C0oYko3pBEE3hunyrzJQf5SYREdFyhCCvfUi2bnaxK5LE9o7FsKvzxl5oSPKoegOf-otY4DBDf/w945-h600-p-k-no-nu/Harshad%20Kumbhar.jpg" alt="Harshad" width=10%>
+<hr/>
+
+<h1>Fill Form</h1>
+<form>
+    <input type="text" placeholder="First Name"/> <br><br>
+    <input type="text" placeholder="Last Name"/><br><br>
+    <input type="email" placeholder="Email"/> <br><br>
+    <input type="password" placeholder="password"/> <br><br>
+    
+    <input type="radio" name="gender">male
+    <input type="radio" name="gender">female<br><br>
+    <input type="checkbox" requred="true">I accept Terms and Conditions<br><br>
+    <input type="file"><br><br>
+    <input type="color"><br><br>
+    <input type="date"><br><br>
+    <input type="submit"><br>
+<hr/><br>
+
+ <h1>MetaTags</h1>
+ IN code 
+ cheak the Head section
+
+
+</body>
+
+
+
+</html>

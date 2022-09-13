@@ -1,0 +1,74 @@
+body{
+     background-image: url(https://dynamic-media-cdn.tripadvisor.com/media/photo-o/08/9a/30/d6/agra.jpg?w=1200&h=-1&s=1);
+     background-repeat: no-repeat;
+     background-size: cover;
+     position: relative;
+}
+#title{
+    text-align: center;
+   
+}
+p{
+    text-align: justify;
+    background-color: seagreen;
+    padding: 0.5rem;
+}
+#p1{
+  
+    background-color: bisque;
+    width: 50%;
+    z-index: 100;
+}
+#p2{
+   
+    width: 70%;
+    margin-top: -2rem;
+    z-index: 10000;
+}
+#button{
+    background-color: blueviolet;
+    padding: 1rem;
+    color: aliceblue;
+    text-decoration: underline;
+
+}
+ul{
+    background-color: rosybrown;
+    padding: 2rem;
+    display: flex;
+}
+li{color: rgb(15, 12, 12);
+    background-color: rgb(146, 26, 146);
+    margin: 1rem;
+    padding: 1rem;
+    list-style-type: upper-roman;
+}
+#none{
+    list-style-type: square;
+}
+#boxx{
+    max-width: 50vw;
+    max-height: 50vw;
+    background-color: red;
+}
+#setdisplay{
+    background-color: orangered;
+    padding: 1rem;
+    margin: 1rem;
+    display: inline;
+
+}
+span{
+    background-color: blue;
+}
+#line{
+    background-color: blueviolet;
+}
+#line2{
+    display: block;
+    height: 5rem;
+    width: 5rem;
+}
+#line3{
+    display: none;
+}

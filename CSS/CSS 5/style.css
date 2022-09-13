@@ -1,0 +1,105 @@
+@import url('https://fonts.googleapis.com/css2?family=Antonio:wght@100;200;300;400;500;600;700&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Inconsolata:wght@200;300;400;500;600;700;800;900&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Anton&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Crimson+Text:ital,wght@0,400;0,600;0,700;1,400;1,600;1,700&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Dancing+Script:wght@400;500;600;700&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Josefin+Sans:ital,wght@0,100;0,300;0,400;0,500;0,600;0,700;1,200;1,300;1,400;1,500;1,600;1,700&display=swap');
+
+* {
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+}
+.box{
+    background-color: aquamarine;
+    margin: 30px 20px 10px 5px;
+    border: 2px solid red;
+    padding: 30px;
+    outline: 3px solid green;
+}
+
+#title {
+    text-align: center;
+    font-size: 50px; 
+    font-family: 'Antonio', sans-serif;
+    font-weight: 900;
+}
+#spl{
+ 
+    background-color: red;
+    position: fixed;
+    bottom: 0;
+}
+#first{
+color: darkblue;
+}
+
+#second{
+color:gold;
+}
+.box0{
+    font-family: 'Josefin Sans', sans-serif;
+}
+.box1{
+    font-family: 'Crimson Text', serif;
+}
+.box2{
+    font-family: 'Inconsolata', monospace;
+}
+.box3{
+    font-family: 'Anton', sans-serif;
+}
+.box4{
+    font-family: 'Dancing Script', cursive;
+}
+#float{
+    float: right;
+    background-color: blueviolet;
+    padding: 5rem;
+    margin: 3rem 0rem;
+}
+#reletive{
+    background-color: brown;
+    padding: 2rem;
+    margin: 2rem;
+    height: 8rem;
+    position: relative;
+
+}
+#reletive p{
+background-color: beige;
+border: 1px solid black;
+position: relative;
+right: 4rem;
+top: 3rem;
+}
+#absolute{
+    background-color: brown;
+    padding: 2rem;
+    margin: 2rem;
+    height: 8rem;
+   
+
+}
+
+#absolute p{
+background-color: beige;
+border: 1px solid black;
+position: absolute;
+
+}
+#fixed{
+    background-color: brown;
+    padding: 2rem;
+    margin: 2rem;
+    height: 8rem;
+   
+
+}
+#sticky{
+    position: sticky;
+    top: 3rem;
+    
+}
+ 
+    

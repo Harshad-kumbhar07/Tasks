@@ -1,0 +1,92 @@
+
+
+@import url('https://fonts.googleapis.com/css2?family=Raleway:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap');
+
+#head{
+font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+ color:rgb(255, 65, 51);
+}
+* {
+  box-sizing: border-box;
+  justify-content: center;
+}
+
+.calculator{
+    max-width:320px;
+    background: #eee;
+}
+.calculator-btn{
+   display: grid;
+    grid-template-columns: repeat(4,1fr);
+    border:0;
+}
+.Ans{
+    font-family: 'Space Mono', serif;
+    background: black;
+    color: white;
+    font-size: 2em;
+    border:0;
+    padding: 0.3em;
+    text-align: right;
+    width: 100%;
+    height: 100px;
+    
+    
+}
+.no88{
+    grid-column: span 2;
+   grid-column: 1/3;
+   grid-row:1/2 ;
+  
+}
+
+.no77{
+ 
+    grid-column: 3/4;
+    grid-row:1/2 ;
+}
+.no66{
+ 
+    grid-column: 4/5;
+    grid-row:1/2 ;
+}
+.no22{
+ 
+    grid-column: 4/5;
+    grid-row:2/3;
+}
+.no55{
+ 
+    grid-column: 4/5;
+    grid-row:3/4;
+}
+.no11{
+ 
+    grid-column: 4/5;
+    grid-row:4/5;
+}
+.no33{
+ 
+    grid-column: 4/5;
+    grid-row:5/6;
+}
+.no0{
+    grid-column: 1/5;
+    grid-row:5/6;
+    
+    
+}
+.span-3{
+    grid-column: span 3;
+}
+.btn{
+    font-size:1em;
+    height: 65px;
+    border:1px solid black;
+}
+.btn:hover{
+    background: rgb(164, 102, 235);
+}
+.orange{
+    background-color: rgb(255, 68, 51);
+}

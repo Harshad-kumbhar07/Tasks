@@ -1,0 +1,36 @@
+#box {
+    background-color: aqua;
+    width: 5rem;
+    height: 5rem;
+    cursor: pointer;
+}
+#box:hover {
+    background-color: red;
+}
+
+#pid{
+    font-size: 30px ;
+}
+
+#pix::before {
+    content: "***********";
+    color: red;
+  }
+  #pix::after {
+    content: "*************";
+    color: red;
+  }
+  .styl{
+   
+    width: 2rem;
+    height: 2rem;
+  
+    cursor: pointer;
+  }
+  .styl:hover {
+   background-color: blueviolet;
+}
+a:visited{
+ color: rgb(241, 11, 165);
+}
+  

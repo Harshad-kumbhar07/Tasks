@@ -1,0 +1,59 @@
+@import url('https://fonts.googleapis.com/css2?family=Raleway:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap');
+body{
+    font-family: 'Raleway', sans-serif;
+    background-image: url(https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhG4-9FdKsUla4C21GJ4JTADSbYMgAzBGRiTAnKaLey9nVbCaOySLXMAwgiNKfDsEHswRawFThJ3gk3AV_HHp-FBO8OGT8rTHG8K0GICyEevOuBb3iZPjo8b3BL4cW2_mXuykmuC6-45UGxSobY9-5H7pmYbVp4sAv_wr6d2oBhrH5zFNviGp09zehr/s1920/233b5eee-f14d-4bb8-978f-e3a0814c2cda.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    position: relative;
+   
+}
+.logo{
+    padding: 2rem;
+}
+#nav{
+    padding-right: 3rem;
+    font-size: 20px; 
+    font-weight: 800;
+    color: aliceblue;
+   float: right;
+}
+#but1{
+    color: black;
+    background-color: aliceblue;
+   
+}
+.heading{
+    font-weight: 700;
+    color: white;
+ position: relative;
+ text-align: center;
+ padding: 15px;
+
+}
+.p{
+    font-size: 17px;
+    font-weight: 400;
+}
+#text-bg a:hover {
+    background-color: #eec237;
+    color: #fff;
+    transition: ease-in all 0.5s;
+    border-radius: 25px;
+}
+#text-bg a {
+    font-size: 17px;
+    background-color: #fff;
+    color: #000;
+    font-weight: 500;
+    padding: 13px 0px;
+    width: 100%;
+    max-width: 190px;
+    text-align: center;
+    display: inline-block;
+
+}
+#p2 {
+    width: 70%;
+    margin-top: -2rem;
+    z-index: 10000;
+}

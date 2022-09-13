@@ -1,0 +1,33 @@
+body {
+    background-color: aqua;
+
+font-size: 3rem;
+}
+#Device::after{
+    content: "desktop & laptop "
+    }
+
+
+
+
+
+
+@media only screen and (max-width:720px) {
+    body {
+        background-color: forestgreen;
+    }
+    #Device::after{
+        content: "tablet "
+        }
+}
+
+/*mobile device*/
+@media only screen and (max-width:420px) {
+    body {
+        background-color: salmon;
+    }
+        #Device::after{
+        content: "mobile/Smartphone"
+        }
+    }
+

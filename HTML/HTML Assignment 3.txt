@@ -1,0 +1,73 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>HTML TABLE</title>
+</head>
+<body>
+    <h1>HTML TABLE</h1>
+        <table border="1">
+            <caption><h3>Applications</h3></caption>
+        <thead>
+            <tr>
+                <td><b>sr.no</b></td>
+                <td><b>App Name</b></td>
+                <td><b>Android</b></td>
+                <td><b>IOS</b></td>
+                <td><b>Windows</b></td>
+            </tr>
+        </thead> 
+        <tbody>
+            <tr>
+                <td>1</td>
+                <td>Whatsapp</td>
+                <td>Yes</td>
+                <td>Yes</td>
+                <td>Yes</td>
+            </tr>
+            <tr>
+                <td>2</td>
+                <td>Instagram</td>
+                <td>Yes</td>
+                <td>Yes</td>
+                <td>Yes</td>
+            </tr>
+            <tr>
+                <td>3</td>
+                <td>Picsart</td>
+                <td>Yes</td>
+                <td>Yes</td>
+                <td>NO</td>
+            </tr>
+            <tr>
+                <td>4</td>
+                <td>Adobe Photoshop</td>
+                <td>No</td>
+                <td>No</td>
+                <td>Yes</td>
+            </tr>
+        </tbody>
+        </table>
+
+        <p><h3> Another exhilarating Test match</h3></p>
+            in this seriesthe ebbs and flows aplenty, from the opening spell from Bumrah 
+            on the first morning to Sam Curran's gutsy half-ton in the first innings. Cheteshwar Pujara's meticulous ton 
+            evened out the match after both sides had batted as Moeen Ali scalped five wickets.</p>
+           <p>&emsp;  &emsp;  &emsp; Jos Buttler's half-century in the second innings complimented by Sam Curran's contribution setup an interesting 245-run 
+            target for India to chase down. When Virat Kohli and Ajinkya Rahane put one hundred runs together for India, they were
+         beautifully poised to chase the runs down and level the series. Moeen Ali and Ben Stokes then bowled purposely 
+         and provided the last swing in the match, in England's favor, to secure the series.</p>
+
+         <p>&emsp;  &emsp;  &emsp; England have taken an unassailable 3-1 lead in the series. Going to the Oval, India will be keen to salvage some pride
+          and finish with a win. Virat Kohli has already indicated that his team will approach the fixture with all the seriousness
+         it deserves albeit having lost the series at this point.</p>
+
+         <p> &emsp;  &emsp;  &emsp; Thank you for following this feed.
+        </p>
+        
+
+           
+</body>
+</html>
